@@ -1,0 +1,7 @@
+target
+.idea
+*.iml
+allure-results
+screenshots
+readme.md
+assets
